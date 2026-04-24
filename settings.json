@@ -7,7 +7,7 @@
   },
   "server": {
     "ip": "HUEHAHUEHA.aternos.me",
-    "port": 48795,
+    "port": "48795",
     "version": "26.1.2",
     "try-creative": false
   },
